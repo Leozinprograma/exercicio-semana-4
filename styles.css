@@ -1,0 +1,35 @@
+body {
+    background-image: url(/assets/coffe.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 5%;
+    position: relative;
+    display: flex;
+
+}
+
+.cafe {
+    width: 200px;
+    background-color: antiquewhite;
+    display: flex;
+    position: absolute;
+    left: 30%;
+    text-align: center;
+
+}
+
+.receitas {
+    display: inline;
+    width: 350px;
+    background-color: rgb(251, 251, 251);
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+
+    
+    
+
+
+
+
+}
